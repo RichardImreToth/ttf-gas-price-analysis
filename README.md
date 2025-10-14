@@ -1,3 +1,6 @@
+# ttf-gas-price-analysis
+Exploratory data analysis of Dutch TTF natural gas prices using Python (Pandas, NumPy, Matplotlib, Seaborn).
+
 # Dutch TTF Natural Gas Analysis
 Exploratory data analysis of European natural gas prices using Python (Pandas, NumPy, Matplotlib, Seaborn).
 
